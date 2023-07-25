@@ -1,0 +1,10 @@
+* cl-wayland
+
+Common Lisp bindings for libwayland
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/malcolmstill/cl-wayland.git   |
+| commit  | eebb08f  |
+| systems | cl-wayland |
+|---------+-------------------------------------------|
+
